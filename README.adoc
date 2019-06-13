@@ -1,0 +1,16 @@
+== hystrix
+=== How-To-Use
+https://github.com/Netflix/Hystrix/wiki/How-To-Use
+
+=== How-it-Works
+https://github.com/Netflix/Hystrix/wiki/How-it-Works
+
+=== Configuration
+https://github.com/Netflix/Hystrix/wiki/Configuration
+https://github.com/Netflix/Hystrix/tree/master/hystrix-contrib/hystrix-javanica#configuration
+
+=== wiki
+https://github.com/Netflix/Hystrix/wiki
+
+=== github
+https://github.com/Netflix/Hystrix
